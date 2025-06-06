@@ -1,4 +1,5 @@
-h1. Gap Analysis Document – v1.0
+h1. Gap Analysis document
+Version: v1.0.0
 
 || Priority || {status:MEDIUM} ||
 || Size || [Small | Medium | Large] ||
