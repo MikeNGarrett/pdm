@@ -1,6 +1,6 @@
 h1. Flow Diagram Template
 
-Version: 1.0  
+Version: 1.0.0
 
 ---
 

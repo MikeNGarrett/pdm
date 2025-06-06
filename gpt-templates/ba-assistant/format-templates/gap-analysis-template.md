@@ -1,5 +1,6 @@
 h1. Gap Analysis document
-Version: v1.0.0
+
+Version: 1.0.0
 
 || Priority || {status:MEDIUM} ||
 || Size || [Small | Medium | Large] ||
@@ -69,10 +70,3 @@ Bullet list of assumptions that underpin this analysis.
 h2. 9. Next Steps / Action Plan  
 
 Provide a short roadmap or task list with owners and dates.
-
----
-
-h2. 10. Revision History  
-
-|| *Version* || *Date* || *Author* || *Change* ||
-| 1.0 | [YYYY‑MM‑DD] | [Name] | Initial template |

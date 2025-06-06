@@ -1,5 +1,6 @@
 h1. User Story Template
-Version: v1.0.0
+
+Version: 1.0.0
 
 || Priority || {status:MEDIUM} ||
 || Size / Estimate || [Story Points or T‑shirt size] ||

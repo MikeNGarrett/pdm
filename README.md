@@ -12,3 +12,7 @@ This repository holds GPT prompt templates, structured examples, and evaluation 
 ## Usage
 
 Maintain prompts and evaluation documents here. Regularly update based on test results and feedback.
+
+## Changes
+
+Template files carry a single version line; detailed history lives in CHANGELOG.md once v1.0.0 is released.
