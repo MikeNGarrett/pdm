@@ -1,4 +1,12 @@
+<!--
+  Title: Milestone (Initiative) Brief Template
+  Purpose: Charter a multi-epic milestone and align teams on goals, scope, KPIs.
+  Inputs: {Milestone_Name}, {Objective}, {Goals}, {Scope_In}, {Scope_Out},
+          {Epics}, {KPIs}, {Stakeholders}, {Risks}, {Budget}, {Timeline}
+  Usage: copy, replace, run.
+-->
 h1. Milestone Brief Template  
+
 Version: 1.0.0
 
 ---

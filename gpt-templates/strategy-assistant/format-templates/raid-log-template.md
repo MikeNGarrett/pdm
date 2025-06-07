@@ -1,3 +1,9 @@
+<!--
+  Title: RAID Log Template
+  Purpose: Track Risks, Assumptions, Issues, Dependencies in one table.
+  Inputs: {RAID_Rows}
+  Usage: copy, paste, add new rows during project life-cycle.
+-->
 h1. RAID Log Template  
 
 Version: 1.0.0
@@ -6,7 +12,7 @@ Version: 1.0.0
 
 || Status          || {status:DRAFT} ||
 || Audience        || Project / Program Team ||
-|| Confidentiality || [Public | Internal | Restricted] ||
+|| Confidentiality || [Public \| Internal \| Restricted] ||
 
 ---
 

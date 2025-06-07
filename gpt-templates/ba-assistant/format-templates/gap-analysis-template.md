@@ -3,7 +3,7 @@ h1. Gap Analysis document
 Version: 1.0.0
 
 || Priority || {status:MEDIUM} ||
-|| Size || [Small | Medium | Large] ||
+|| Size || [Small \| Medium \| Large] ||
 || Approval Date || [YYYY-MM-DD] ||
 || Change Log || [Author: Initial draft] ||
 

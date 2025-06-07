@@ -1,3 +1,10 @@
+<!--
+  Title: Project Brief Template
+  Purpose: Kick-off a single project/epic with enough detail for design + dev.
+  Inputs: {Project_Name}, {Objective}, {Scope}, {Success_Metrics},
+          {Deliverables}, {Timeline}, {Stakeholders}, {Dependencies}, {Risks}
+  Usage: copy, replace, run.
+-->
 h1. Project Brief Template  
 Version: 1.0.0
 

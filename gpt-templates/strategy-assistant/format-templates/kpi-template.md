@@ -1,3 +1,9 @@
+<!--
+  Title: KPI & Success Definition Template
+  Purpose: Map goals to KPIs, baselines, targets, cadence and owners.
+  Inputs: {Goals_Table}, {KPI_Map}, {Scorecard}, {Insights}, {Actions}
+  Usage: copy, replace, run.
+-->
 h1. KPI & Success Definition Template  
 
 Version: 1.0.0
@@ -5,8 +11,8 @@ Version: 1.0.0
 ---
 
 || Status          || {status:DRAFT} ||
-|| Audience        || Exec / Product / WebOps ||
-|| Confidentiality || [Public | Internal | Restricted] ||
+|| Audience        || [Exec \| Product \| WebOps] ||
+|| Confidentiality || [Public \| Internal \| Restricted] ||
 
 ---
 

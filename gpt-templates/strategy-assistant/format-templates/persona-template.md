@@ -1,11 +1,20 @@
+<!--
+  Title: Persona Template
+  Purpose: Capture demographic, goals, motivations, and behaviors of one user archetype.
+  Inputs: {Name}, {Segment}, {Age_Range}, {Archetype}, {Goals},
+          {Motivation_Drivers}, {Pain_Points}, {JTBD}, {Channels},
+          {Decision_Factors}, {Quote}
+  Usage: copy, replace, run.
+-->
 h1. Persona Template  
+
 Version: 1.0.0
 
 ---
 
 || Status            || {status:DRAFT} ||
-|| Audience          || Product / UX / Strategy ||
-|| Confidentiality   || [Public | Internal | Restricted] ||
+|| Audience          || [Product \| UX \| Strategy] ||
+|| Confidentiality   || [Public \| Internal \| Restricted] ||
 
 ---
 

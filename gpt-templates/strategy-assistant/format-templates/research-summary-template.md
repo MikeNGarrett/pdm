@@ -1,3 +1,19 @@
+<!--
+  Title: Research Summary Template
+  Purpose: Summarise primary / secondary research into concise, actionable insight.
+  Inputs:
+    {Scope} – topic or question studied
+    {Objectives} – learning goals
+    {Methodology} – research methods
+    {Findings} – key discoveries
+    {Evidence} – supporting data points
+    {Recommendations} – proposed actions
+    {Next_Steps} – follow-up tasks
+  Usage:
+    1. Copy entire file into ChatGPT.
+    2. Replace placeholders with real data.
+    3. Send the prompt unchanged (comments may remain).
+-->
 h1. Research Summary Template
 
 Version: 1.0.0

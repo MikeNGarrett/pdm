@@ -1,3 +1,10 @@
+<!--
+  Title: Functional Requirements Document Template
+  Purpose: Define in-scope functionality, NFRs, data structures, flows, KPIs.
+  Inputs: {Overview}, {Goals}, {FR_Table}, {NFR_Table}, {Data_Model},
+          {Flows}, {AC}, {DoD}, {Assumptions}
+  Usage: copy, replace, run.
+-->
 h1. Functional Requirements Document (FRD)
 
 Version: 1.0.0

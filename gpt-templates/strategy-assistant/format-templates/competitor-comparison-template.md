@@ -1,4 +1,12 @@
+<!--
+  Title: Competitor Comparison Template
+  Purpose: Compare feature, pricing, and positioning of key competitors.
+  Inputs: {Competitors_List}, {Capabilities}, {Pricing}, {Strengths},
+          {Weaknesses}, {Takeaways}
+  Usage: copy, replace, run.
+-->
 h1. Competitor Comparison Template  
+
 Version: 1.0.0
 
 ---

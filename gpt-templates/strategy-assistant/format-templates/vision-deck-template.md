@@ -1,10 +1,19 @@
+<!--
+  Title: Vision-Deck Outline Template
+  Purpose: Produce a slide-by-slide outline for an executive vision deck.
+  Inputs: {Product_Name}, {Tagline}, {Drivers}, {Vision}, {Personas},
+          {Problem}, {Solution}, {Differentiators}, {KPIs}, {Timeline},
+          {Stakeholders}, {Ask}
+  Usage: copy, replace, run.
+-->
 h1. Product Vision Deck Outline  
+
 Version: 1.0.0
 
 ---
 
 || Status            || {status:DRAFT} ||
-|| Audience          || Exec / Leadership / Partners ||
+|| Audience          || [Exec \| Leadership \| Partners] ||
 || Confidentiality   || [Public \| Internal \| Restricted] ||
 
 ---

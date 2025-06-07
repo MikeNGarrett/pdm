@@ -1,3 +1,11 @@
+<!--
+  Title: Strategic Brief Template
+  Purpose: Frame a single decision with context, options and recommendation.
+  Inputs:
+    {Objective}, {Context}, {Problem}, {Options}, {Recommendation},
+    {KPIs}, {Risks}, {Next_Steps}
+  Usage: copy, fill placeholders, run.
+-->
 h1. Strategic Brief Template
 
 Version: 1.0.0

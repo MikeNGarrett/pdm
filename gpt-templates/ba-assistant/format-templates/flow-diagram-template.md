@@ -1,3 +1,10 @@
+<!--
+  Title: Flow Diagram Template
+  Purpose: Document user/system flows in Mermaid; include alt/error paths.
+  Inputs: {Flow_Name}, {Objective}, {Primary_Flow}, {Alt_Flows},
+          {Business_Rules}, {Assumptions}, {Conflicts}
+  Usage: copy, replace, render Mermaid diagram.
+-->
 h1. Flow Diagram Template
 
 Version: 1.0.0

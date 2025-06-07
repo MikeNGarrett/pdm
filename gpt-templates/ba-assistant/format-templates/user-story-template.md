@@ -1,3 +1,10 @@
+<!--
+  Title: Gap Analysis Template
+  Purpose: Compare current vs. target state; list gaps, impacts, recommendations.
+  Inputs: {Current_State}, {Target_State}, {Gap_Table}, {Recommendations},
+          {Dependencies}, {Risks}, {Next_Steps}
+  Usage: copy, replace, run.
+-->
 h1. User Story Template
 
 Version: 1.0.0
